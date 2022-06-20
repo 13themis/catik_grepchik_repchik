@@ -1,0 +1,205 @@
+tdxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+tdxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+grep -c f grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > grep.txt
+./s21_grep -c f grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > 12.txt
+grep -v grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > grep.txt
+./s21_grep -v grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > 12.txt
+grep -i F grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > grep.txt
+./s21_grep -i F grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > 12.txt
+grep -i F grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > grep.txt
+./s21_grep -i F grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > 12.txt
+grep -l f grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > grep.txt
+./s21_grep -l f grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > 12.txt
+grep -n f grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > grep.txt
+./s21_grep -n f grep_tests/grep_file1 grep_tests/grep_file2 grep_tests/grep_file3 grep_tests/grep_file4 > 12.txt
+
+grep -n zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > grep.txt
+./s21_grep -n zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > 12.txt
+grep -c zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > grep.txt
+./s21_grep -c zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > 12.txt
+grep -v zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > grep.txt
+./s21_grep -v zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > 12.txt
+grep -i " " grep_tests/grep_file4 > grep.txt
+./s21_grep -i " " grep_tests/grep_file4 > 12.txt
+grep -e zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > grep.txt
+./s21_grep -e zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > 12.txt
+grep -l zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > grep.txt
+./s21_grep -l zxcvbnm,.;lokiujytgfrvgbhnjkiuyg grep_tests/grep_file4 > 12.txt
+
+tdxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+tdxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+tdxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+tdxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+ttdxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+dxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+tttttttdxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+dxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+dxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+dxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+dxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+dxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+dxfcygvubhinjomp,mnbivucwe3
+qaerjytkutjrnhegwfqd	qe
+qerjtykumhtnfgbdvsgefwt5yr6tyj
+hello
+
+
+
+
+
+
+
+
+
